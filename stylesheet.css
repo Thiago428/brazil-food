@@ -57,9 +57,9 @@ body {
  /* -------------------- main -------------------- */
 #main {
 	 box-sizing: border-box;
-	 margin-left: 220px;
+	 margin:215px;
 	 width: 70%;
-	 padding: 10px 30px 10px 10px;
+	 padding: 10px 10px 10px 10px;
 	 display:grid;
 	 grid-template-columns:1fr 1fr;
 	 grid-gap: 10px 10%;
